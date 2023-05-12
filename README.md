@@ -48,6 +48,9 @@ https://github.com/TheSpaghettiDetective/obico-server
 
 ---------- DONE ------------------
 
+</pre>
+![image](https://github.com/coolikot/Obico-Debian/assets/85612975/4f102ed9-5aa9-42ee-8639-143f06d53307)
+<pre>
 
 OPTIONAL: VNC Install for GUI Checking
 
