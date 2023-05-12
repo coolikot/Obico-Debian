@@ -1,5 +1,5 @@
 # Obico-Debian
-Obico Server set up Using Debian as base
+Obico Server set up Using Debian as base on an INTEL NUC
 <pre>
 Hardware: Intel Nuc 
 Mobo: i5 10210U CPU 1.60 GHz
