@@ -1,5 +1,11 @@
 # Obico-Debian
 Obico Server set up Using Debian as base
+<pre>
+Hardware: Intel Nuc 
+Mobo: i5 10210U CPU 1.60 GHz
+Ram: 16GB RAM
+</pre>
+![image](https://github.com/coolikot/Obico-Debian/assets/85612975/f7042c90-c6c8-4300-9cd5-5e78f8bd508e)
 
 <pre>
 Add user to sudoers file: https://www.tecmint.com/fix-user-is-not-in-the-sudoers-file-the-incident-will-be-reported-ubuntu/
