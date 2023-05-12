@@ -2,8 +2,7 @@
 Obico Server set up Using Debian as base
 
 <pre>
-Add user to sudoers file:
-https://www.tecmint.com/fix-user-is-not-in-the-sudoers-file-the-incident-will-be-reported-ubuntu/
+Add user to sudoers file: https://www.tecmint.com/fix-user-is-not-in-the-sudoers-file-the-incident-will-be-reported-ubuntu/
 
 sudo nano /etc/sudoers
 <user>        ALL=(ALL:ALL) ALL
@@ -34,13 +33,11 @@ ip a
 ![image](https://github.com/coolikot/Obico-Debian/assets/85612975/beb1b882-b2ca-4fc0-be0b-dc0ba087a557)
 <pre>
 
-Install Docker
-https://docs.docker.com/engine/install/debian/#set-up-the-repository
-Install Docker-Desktop
+Install Docker: https://docs.docker.com/engine/install/debian/#set-up-the-repository
+Install Docker-Desktop: https://docs.docker.com/desktop/install/debian/
 </pre>
 ![image](https://github.com/coolikot/Obico-Debian/assets/85612975/0c49823d-84e2-402d-b4a5-cc0b00a2aee0)
 <pre>
-https://docs.docker.com/desktop/install/debian/
 Post Install Script
 
 ==install Obico
